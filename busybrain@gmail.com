@@ -528,7 +528,66 @@
                 <span class="section-label">2024–2025</span>
             </header>
             <div class="gallery-grid" id="gallery-grid">
-                <!-- Gallery items will be populated by JS or manually -->
+                <div class="gallery-item"><img src="gallery/01.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/02.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/03.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/04.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/05.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/06.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/07.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/08.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/09.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/10.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/11.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/12.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/13.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/14.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/15.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/16.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/17.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/18.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/19.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/20.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/21.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/22.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/23.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/24.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/25.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/26.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/27.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/28.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/29.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/30.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/31.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/32.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/33.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/34.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/35.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/36.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/37.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/38.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/39.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/40.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/41.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/42.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/43.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/44.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/45.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/46.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/47.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/48.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/49.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/50.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/51.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/52.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/53.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/54.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/55.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/56.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/57.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/58.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/59.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
+                <div class="gallery-item"><img src="gallery/60.jpg" alt="Event photo" loading="lazy" onload="this.classList.add('loaded');this.parentElement.classList.add('loaded')"></div>
             </div>
         </div>
     </section>
@@ -565,117 +624,8 @@
         <img src="" alt="" class="lightbox-image">
     </div>
 
-    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
-        // ========================================
-        // GALLERY DATA
-        // ========================================
-        const galleryImages = [
-            'gallery/01.jpg',
-            'gallery/02.jpg',
-            'gallery/03.jpg',
-            'gallery/04.jpg',
-            'gallery/05.jpg',
-            'gallery/06.jpg',
-            'gallery/07.jpg',
-            'gallery/08.jpg',
-            'gallery/09.jpg',
-            'gallery/10.jpg',
-            'gallery/11.jpg',
-            'gallery/12.jpg',
-            'gallery/13.jpg',
-            'gallery/14.jpg',
-            'gallery/15.jpg',
-            'gallery/16.jpg',
-            'gallery/17.jpg',
-            'gallery/18.jpg',
-            'gallery/19.jpg',
-            'gallery/20.jpg',
-            'gallery/21.jpg',
-            'gallery/22.jpg',
-            'gallery/23.jpg',
-            'gallery/24.jpg',
-            'gallery/25.jpg',
-            'gallery/26.jpg',
-            'gallery/27.jpg',
-            'gallery/28.jpg',
-            'gallery/29.jpg',
-            'gallery/30.jpg',
-            'gallery/31.jpg',
-            'gallery/32.jpg',
-            'gallery/33.jpg',
-            'gallery/34.jpg',
-            'gallery/35.jpg',
-            'gallery/36.jpg',
-            'gallery/37.jpg',
-            'gallery/38.jpg',
-            'gallery/39.jpg',
-            'gallery/40.jpg',
-            'gallery/41.jpg',
-            'gallery/42.jpg',
-            'gallery/43.jpg',
-            'gallery/44.jpg',
-            'gallery/45.jpg',
-            'gallery/46.jpg',
-            'gallery/47.jpg',
-            'gallery/48.jpg',
-            'gallery/49.jpg',
-            'gallery/50.jpg',
-            'gallery/51.jpg',
-            'gallery/52.jpg',
-            'gallery/53.jpg',
-            'gallery/54.jpg',
-            'gallery/55.jpg',
-            'gallery/56.jpg',
-            'gallery/57.jpg',
-            'gallery/58.jpg',
-            'gallery/59.jpg',
-            'gallery/60.jpg',
-        ];
-
-        // ========================================
-        // GALLERY INITIALIZATION
-        // ========================================
-        const galleryGrid = document.getElementById('gallery-grid');
-
-        galleryImages.forEach((src, index) => {
-            const item = document.createElement('div');
-            item.className = 'gallery-item';
-            item.setAttribute('role', 'button');
-            item.setAttribute('tabindex', '0');
-            item.setAttribute('aria-label', `View image ${index + 1}`);
-
-            const img = document.createElement('img');
-            img.src = src;
-            img.alt = `Event photo ${index + 1}`;
-            img.loading = 'lazy';
-
-            // Handle image load
-            img.onload = () => {
-                img.classList.add('loaded');
-                item.classList.add('loaded');
-            };
-
-            // Handle image error
-            img.onerror = () => {
-                item.style.display = 'none';
-            };
-
-            item.appendChild(img);
-            galleryGrid.appendChild(item);
-
-            // Click handler
-            item.addEventListener('click', () => openLightbox(src));
-            item.addEventListener('keydown', (e) => {
-                if (e.key === 'Enter' || e.key === ' ') {
-                    e.preventDefault();
-                    openLightbox(src);
-                }
-            });
-        });
-
-        // ========================================
-        // LIGHTBOX
-        // ========================================
+    <script>
+        // Lightbox
         const lightbox = document.getElementById('lightbox');
         const lightboxImage = lightbox.querySelector('.lightbox-image');
         const lightboxClose = lightbox.querySelector('.lightbox-close');
@@ -684,53 +634,45 @@
             lightboxImage.src = src;
             lightbox.classList.add('active');
             document.body.style.overflow = 'hidden';
-            lightboxClose.focus();
         }
 
         function closeLightbox() {
             lightbox.classList.remove('active');
             document.body.style.overflow = '';
-            lightboxImage.src = '';
         }
+
+        // Click handlers for gallery items
+        document.querySelectorAll('.gallery-item').forEach(item => {
+            item.addEventListener('click', () => {
+                const img = item.querySelector('img');
+                if (img) openLightbox(img.src);
+            });
+        });
 
         lightbox.addEventListener('click', (e) => {
             if (e.target === lightbox) closeLightbox();
         });
-
         lightboxClose.addEventListener('click', closeLightbox);
-
         document.addEventListener('keydown', (e) => {
-            if (e.key === 'Escape' && lightbox.classList.contains('active')) {
-                closeLightbox();
-            }
+            if (e.key === 'Escape') closeLightbox();
         });
 
-        // ========================================
-        // HEADER SCROLL STATE
-        // ========================================
+        // Header scroll
         const header = document.getElementById('header');
-        let lastScroll = 0;
-
         window.addEventListener('scroll', () => {
-            const currentScroll = window.scrollY;
-            
-            if (currentScroll > 64) {
-                header.classList.add('scrolled');
-            } else {
-                header.classList.remove('scrolled');
-            }
-            
-            lastScroll = currentScroll;
+            header.classList.toggle('scrolled', window.scrollY > 64);
         }, { passive: true });
 
-        // ========================================
-        // SMOOTH SCROLL FOR NAV LINKS
-        // ========================================
+        // Smooth scroll
         document.querySelectorAll('.nav-link').forEach(link => {
             link.addEventListener('click', (e) => {
                 const href = link.getAttribute('href');
                 if (href.startsWith('#')) {
                     e.preventDefault();
-                    const target = document.querySelector(href);
-                    if (target) {
-                 
+                    document.querySelector(href)?.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -334,8 +334,21 @@
         }
 
         /* ========================================
-           SIGNUP EMBED
+           SIGNUP SECTION
            ======================================== */
+        .signup-section {
+            text-align: center;
+        }
+
+        .signup-title {
+            font-size: var(--font-size-sm);
+            font-weight: 400;
+            letter-spacing: var(--letter-spacing-wide);
+            text-transform: uppercase;
+            color: var(--color-text);
+            margin-bottom: var(--space-5);
+        }
+
         .signup-embed {
             max-width: 600px;
             margin: 0 auto;
@@ -574,13 +587,10 @@
         </div>
     </section>
 
-    <!-- Connect -->
-    <section class="section" id="signup">
+    <!-- Signup -->
+    <section class="section signup-section" id="signup">
         <div class="container">
-            <header class="section-header">
-                <h2 class="section-title">Stay in the Loop</h2>
-                <span class="section-label">Get Notified</span>
-            </header>
+            <h2 class="signup-title">Stay in the Loop</h2>
             <div class="signup-embed">
                 <script src="https://embed.laylo.com/laylo-sdk.js"></script>
                 <iframe 

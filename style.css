@@ -85,6 +85,7 @@ img { display: block; max-width: 100%; }
 .signup-embed iframe { border: 0; }
 
 /* Connect and footer */
+.connect-section { background: var(--bg); }
 .connect-layout { display: flex; align-items: end; justify-content: space-between; gap: 48px; }
 .connect-layout h2 { margin-bottom: 0; }
 .connect-links { width: min(100%, 420px); }
